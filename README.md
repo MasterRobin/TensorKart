@@ -1,4 +1,4 @@
-# How_to_make_a_tensorflow_image_classifier
+# How to make an image classifier
 
 ##Overview
 
@@ -7,7 +7,7 @@ This Jupyter notebook shows step by step, the process of building a Convolutiona
 ##Dependencies
 
 * matplotlib
-* tensorflow 
+* tensorflow 1.x
 * numpy 
 * scikit-learn
 * math
